@@ -33,4 +33,10 @@ EDA involved exploring the financial_loan data to answer key questions, such as:
 Pivot table function was used to analyze the data to answer questions.
 
 ###  Results and Findings
-1. 
+1. Total loan application is 38576
+2. Total amount funded is $473.1M
+3. Total amount recieved is $435.8M
+4. Average interest rate is %12.05
+5. Average DTI is %13.33
+6. Good Loan
+   -  

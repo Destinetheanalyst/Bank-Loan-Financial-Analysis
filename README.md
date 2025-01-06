@@ -48,3 +48,11 @@ Pivot table function was used to analyze the data to answer questions.
 5. Average DTI is %13.33
 
 #### Good Loan KPIs
+- Total loan application is 33243
+- Loan amount funded is $370.2M
+- Loan amount recieved is $435.8M
+
+#### Bad Loan KPIs
+- Total loan application 5333
+- Loan amount funded is $65.5M
+- Loan amount recieved is $37.3M

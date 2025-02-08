@@ -1,7 +1,22 @@
 # Bank-Loan-Financial-Analysis
 
+---
+### Table of Content
+- [Project Overiew](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results and Findings](#results-and-findings)
+- [Recommendations](#recommendations)
+- [Conclusion](#conclusion)
+---
 ### Project Overview
 The primary objective of the Project is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into our loan portfolio, borrower profiles, and loan performance.
+
+---
+![Loan Analysis 2](https://github.com/user-attachments/assets/e0e01778-462b-423c-9b47-a09fbf33bfa6)
 
 ---
 ### Data Source
@@ -46,6 +61,11 @@ Pivot table function was used to analyze the data to answer questions.
 3. Total amount recieved is $435.8M
 4. Average interest rate is %12.05
 5. Average DTI is %13.33
+6. December is the month with the most loan application, while February is the month with the least loan application
+7. Employees who have worked 10+ years are the employee with rhe most appliations
+8. Debt consolidation is the purpose of most loan application
+9. CA is the state with the most application, with a total of 6894 applications.
+10. Loans with a duration of 36 months, makes up 73% of loan applications.
 
 #### Good Loan KPIs
 - Total loan application is 33243
@@ -56,3 +76,19 @@ Pivot table function was used to analyze the data to answer questions.
 - Total loan application 5333
 - Loan amount funded is $65.5M
 - Loan amount recieved is $37.3M
+  
+![Loan Analysis](https://github.com/user-attachments/assets/d3ae8082-1dc8-448c-b811-9b1c39054134)
+
+  ---
+  ### Recommendations
+  1. Analyze loan repayment terms and history
+  2. Implement  risk based pricing
+  3. Monitor economic trends
+  4. Ensure compliance with regulations
+  5. Enhance customers experience
+  6. Automate decision making based on certain conditions.
+ 
+  ---
+  ### Conclusion
+
+   

@@ -1,8 +1,8 @@
-# Bank-Loan-Financial-Analysis
+# Loan Risk and Financial Assessment
 
 ---
 ### Table of Content
-- [Project Overiew](#project-overview)
+- [Project Objective](#project-objective)
 - [Data Source](#data-source)
 - [Tools](#tools)
 - [Data Cleaning](#data-cleaning)
@@ -12,7 +12,7 @@
 - [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
 ---
-### Project Overview
+### Project Objective
 The primary objective of the Project is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into our loan portfolio, borrower profiles, and loan performance.
 
 ---
